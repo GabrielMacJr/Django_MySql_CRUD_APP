@@ -14,10 +14,9 @@ An app that will be able to create an employee object and store the employee det
 Once an employee object is created, its details will be able to be read and updated. The employee object can be also be deleted.
 
 
+# Create a database in MySQL 
 
-
-# RFM Analysis Code: [Click Here](https://github.com/GabrielMacJr/RFM_Analysis/blob/master/RFMSQLQuery.sql)
-<h6>This is a preview of the RFM segmentation code. Click link above to see the complete TSQL code</h6>
+![createDatabase](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/dd50b923-8faf-4b6e-9286-8a99fe30491b)
 
 ![RFManalysis](https://user-images.githubusercontent.com/110753469/199351827-affb5f57-d1cb-423f-b38a-cd134bf5f10e.PNG)
 
