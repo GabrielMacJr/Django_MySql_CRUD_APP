@@ -18,10 +18,19 @@ The employee details will be able to be modified and the employee can also be de
 <h3>Employee Object Created</h3>
 
  ![details](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/3ce993b6-294f-4c9a-839b-46331a635472)
+ 
  </p>
-![empobj](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/9ddeba10-32cf-483a-8721-b39ff71e65d1)
+<p>
+  
+  ![empobj](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/9ddeba10-32cf-483a-8721-b39ff71e65d1)
 
- ![mysqldata](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/422241a7-35ad-495e-837e-73e4c4eb0897)
+</p>
+
+<p> 
+  ![mysqldata](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/422241a7-35ad-495e-837e-73e4c4eb0897) 
+
+</p>
+ 
   
 
 
