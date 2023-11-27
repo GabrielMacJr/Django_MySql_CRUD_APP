@@ -31,7 +31,7 @@ and the employee will be able to be deleted.
 </p>
 
 <p> 
-  <h3>Employee object is also stored in MySQL database. Keep in mind that MySQL databse is using the names assigned in the models.py file</h3>
+  <h2>Employee object is also stored in MySQL database. Keep in mind that MySQL databse is using the names assigned in the models.py file</h2>
 
   <h2>Names assigned in in the models.py</h2>
   
