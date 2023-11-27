@@ -16,7 +16,7 @@ Once an employee object is created, its details will be able to be read and upda
 
 
 # Create a database in MySQL  
-Two ways to create a database: (For this project the database name will be <b>djangomysqlcrudapp</b>
+Two ways to create a database: (For this project the database name will be <b>djangomysqlcrudapp</b>)
 <p>
 1) Create a database using MySQL Workbench 
 
