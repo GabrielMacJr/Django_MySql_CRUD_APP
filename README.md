@@ -1,7 +1,9 @@
 # Django_MySql_CRUD_APP
 
 <p align = "center">
-![table](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/fc2c6c14-baf9-407b-9e74-80cca24a2164)
+  
+  ![table](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/fc2c6c14-baf9-407b-9e74-80cca24a2164)
+
 </p>
 
 # Objective
