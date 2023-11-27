@@ -17,8 +17,10 @@ Once an employee object is created, its details will be able to be read and upda
 
 # Create a database in MySQL  
 Two ways to create a database:
+<a>
 1)Create a database using MySQL Workbench 
 ![database2](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/5624871b-da29-4590-ac75-6a4ea7e7dc51)
+</a>
 2)Create a database using MySQL Command Line CLient
 ![createDatabase](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/dd50b923-8faf-4b6e-9286-8a99fe30491b)
 
