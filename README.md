@@ -66,7 +66,7 @@ Two ways to create a database: (For this project the database name will be <b>dj
 </p>
 
 # Running APP
-<p>In the command line, move to the location of your saved project and type the following. 
+<p>In the command prompt line, move to the location of your saved project and type the following. 
   <h3>python manage.py makemigrations</h3>
   <h3>python manage.py migrate</h3> 
   <h3>python manage.py runserver</h3> 
