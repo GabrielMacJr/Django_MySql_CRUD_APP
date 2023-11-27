@@ -36,3 +36,5 @@ Two ways to create a database: (For this project the database name will be <b>dj
   ![database](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/53a51c9a-84b5-4559-917e-e6a001efef4a)
 
 </p>
+
+
