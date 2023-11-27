@@ -59,7 +59,7 @@ Two ways to create a database: (For this project the database name will be <b>dj
 
 # Set Up MySQL database in Django   
 <p>
-  Change the Django default database (sqlite3) to MySQL databse in the <b>settings.py</b> file.
+  Change the Django default database (sqlite3) to MySQL databse in the <b>settings.py</b> file. Use the username and password created when installing MySQL.
   
   ![database](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/53a51c9a-84b5-4559-917e-e6a001efef4a)
 
