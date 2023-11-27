@@ -15,7 +15,7 @@ An app that will be able to create an employee object and store the employee det
 The employee details will be able to be modified and the employee can also be deleted.
 <p align = "center">
  
-Employee Created
+<h3>Employee Object Created</h3>
 
  ![details](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/3ce993b6-294f-4c9a-839b-46331a635472)
  </p>
