@@ -12,9 +12,13 @@ Use Django framework and MySQL to create a CRUD (Create, Read, Update, Delete) A
 
 # What will be created?
 An app that will be able to create an employee object and store the employee details into a database (MySQL Database).
-![details](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/3ce993b6-294f-4c9a-839b-46331a635472)
 
-![details](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/1530ec95-3989-4c13-93b3-24a98ed610ac)
+<p>
+  ![details](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/3ce993b6-294f-4c9a-839b-46331a635472)
+
+  </p>
+
+
 
 
 # Create a database in MySQL  
