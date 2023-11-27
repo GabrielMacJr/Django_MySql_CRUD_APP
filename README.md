@@ -66,8 +66,8 @@ Two ways to create a database: (For this project the database name will be <b>dj
 </p>
 
 # Running APP
-<p>Type in the command line
-  <h3>python manage.py makemigrations</h3>
+<p>In the command line, move to the location of your saved project (For example my project is saved at C:\Users\macia\OneDrive\Desktop\DjangoCRUDAPP\crud> python manage.py runserver ) and type the following. 
+  <h3> python manage.py makemigrations</h3>
   <h3>python manage.py migrate</h3> 
   <h3>python manage.py runserver</h3> 
   <h3>Open URL given (Starting development server at http://127.0.0.1:8000/) </h3>
