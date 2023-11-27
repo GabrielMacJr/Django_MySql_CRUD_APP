@@ -26,7 +26,7 @@ Two ways to create a database:
 <p>
 2)Create a database using MySQL Command Line CLient
   
-![createDatabase](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/dd50b923-8faf-4b6e-9286-8a99fe30491b)
+![createDatabase](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/68daac99-d015-4c89-9d15-ca494b73fad0)
 </p>
 ![database](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/3a039e27-b484-4fff-97ac-645893d02d5e)
 
