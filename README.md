@@ -29,8 +29,9 @@ Two ways to create a database: (For this project the database name will be <b>dj
 ![createDatabase](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/68daac99-d015-4c89-9d15-ca494b73fad0)
 </p>
 
+# Set Up MySQL database in Django   
 <p>
-  Change the Django default databse (sqlite3) to MySQL databse in the <b>settings.py</b> file.
+  Change the Django default database (sqlite3) to MySQL databse in the <b>settings.py</b> file.
   
   ![database](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/53a51c9a-84b5-4559-917e-e6a001efef4a)
 
