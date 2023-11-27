@@ -6,6 +6,7 @@
 
 </p>
 
+
 # Objective
 Use Django framework and MySQL to create a CRUD (Create, Read, Update, Delete) APP.
 
@@ -14,9 +15,14 @@ An app that will be able to create an employee object and store the employee det
 Once an employee object is created, its details will be able to be read and updated. The employee object can be also be deleted.
 
 
-# Create a database in MySQL 
-
+# Create a database in MySQL  
+Two ways to create a database:
+1)Create a database using MySQL Workbench 
+![database2](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/5624871b-da29-4590-ac75-6a4ea7e7dc51)
+2)Create a database using MySQL Command Line CLient
 ![createDatabase](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/dd50b923-8faf-4b6e-9286-8a99fe30491b)
+
+![database](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/3a039e27-b484-4fff-97ac-645893d02d5e)
 
 ![RFManalysis](https://user-images.githubusercontent.com/110753469/199351827-affb5f57-d1cb-423f-b38a-cd134bf5f10e.PNG)
 
