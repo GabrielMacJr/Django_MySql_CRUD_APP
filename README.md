@@ -28,11 +28,3 @@ Two ways to create a database:
   
 ![createDatabase](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/68daac99-d015-4c89-9d15-ca494b73fad0)
 </p>
-![database](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/3a039e27-b484-4fff-97ac-645893d02d5e)
-
-![RFManalysis](https://user-images.githubusercontent.com/110753469/199351827-affb5f57-d1cb-423f-b38a-cd134bf5f10e.PNG)
-
-# RFM Segmentation Results: [Click Here](https://github.com/GabrielMacJr/RFM_Analysis/blob/master/RFM%20Analysis%20Segmentation%20Results.txt)
- <h6>This is a preview of the RFM segmentation results. Click link above to see the complete results </h6>
-
-![rfm results table](https://user-images.githubusercontent.com/110753469/208203093-f0ae508d-9abb-41be-b2cc-e8f9c97cd3d9.PNG)
