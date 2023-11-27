@@ -18,7 +18,7 @@ and the employee will be able to be deleted.
 
 <p align = "center">
  
-<h2>Form where employee details can be entered.</h2>
+<h2>Form where employee details can be entered</h2>
 <h3>Click Submit to create employee object in the database</h3>
 
  ![details](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/3ce993b6-294f-4c9a-839b-46331a635472)
