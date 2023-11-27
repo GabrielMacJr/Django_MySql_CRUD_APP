@@ -16,7 +16,8 @@ The employee details will be able to be modified and the employee can also be de
 
 <p align = "center">
  
-<h3>Form where employee details can be entered. Click submit to create employee object in the database</h3>
+<h3>Form where employee details can be entered.</h3><br>
+<h3>Click Submit to create employee object in the database</h3>
 
  ![details](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/3ce993b6-294f-4c9a-839b-46331a635472)
  </p>
