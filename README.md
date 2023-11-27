@@ -33,7 +33,7 @@ and the employee will be able to be deleted.
 <p> 
   <h2>Employee object is also stored in MySQL database. Keep in mind that MySQL databse is using the names assigned in the models.py file</h2>
 
-  <h3>Names assigned in in the models.py</h3>
+  <h3>Names assigned in the models.py</h3>
   
   ![sqlnames](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/43edd868-3abc-412b-8f3f-9329301ea6ab)
 
