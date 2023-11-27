@@ -25,7 +25,7 @@ and the employee will be able to be deleted.
  </p>
 
 <p>
-  <h3>Employee object has been created.</h3>
+  <h3>Employee object has been created</h3>
   
   ![empobj](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/9ddeba10-32cf-483a-8721-b39ff71e65d1)
 </p>
@@ -43,10 +43,6 @@ and the employee will be able to be deleted.
 </p>
  
   
-
-
-
-
 # Create a database in MySQL  
 Two ways to create a database: (For this project the database name will be <b>djangomysqlcrudapp</b>)
 <p>
@@ -67,6 +63,14 @@ Two ways to create a database: (For this project the database name will be <b>dj
   
   ![database](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/53a51c9a-84b5-4559-917e-e6a001efef4a)
 
+</p>
+
+# Running APP
+<p>Type in the command line
+  <h3>python manage.py makemigrations</h3>
+  <h3>python manage.py migrate</h3> 
+  <h3>python manage.py runserver</h3> 
+  <h3>Open URL given (Starting development server at http://127.0.0.1:8000/) </h3>
 </p>
 
 
