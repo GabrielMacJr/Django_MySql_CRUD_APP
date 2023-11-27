@@ -25,13 +25,13 @@ and the employee will be able to be deleted.
  </p>
 
 <p>
-  <h3>Employee object is created.</h3>
+  <h3>Employee object has been created.</h3>
   
   ![empobj](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/9ddeba10-32cf-483a-8721-b39ff71e65d1)
 </p>
 
 <p> 
-  <h3>Employee object is also stored in MySQL database. Keep in mind that MySQL databse is using the names assigned in the <b>models.py</b> file</h3>
+  <h3>Employee object is also stored in MySQL database. Keep in mind that MySQL databse is using the names assigned in the models.py file</h3>
 
   <h2>Names assigned in in the models.py</h2>
   
