@@ -37,7 +37,7 @@ and the employee will be able to be deleted.
   
   ![sqlnames](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/43edd868-3abc-412b-8f3f-9329301ea6ab)
 
-  <h3>Employee stored in MySQL database</h3>
+  <h3>Employee stored in MySQL database.</h3>
   
   ![mysqldata](https://github.com/GabrielMacJr/Django_MySql_CRUD_APP/assets/110753469/422241a7-35ad-495e-837e-73e4c4eb0897) 
 </p>
